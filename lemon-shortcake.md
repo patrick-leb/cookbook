@@ -16,5 +16,5 @@
 
 - Mix to smooth batter (wet ingredients > dry)
 
-# Cooking
+## Cooking
 - 50 mins at 350f
